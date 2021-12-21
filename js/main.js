@@ -1,10 +1,10 @@
 $(document).ready(function(){
 
     //scroll
-    $("html").niceScroll()
-    $("body").niceScroll({
-        cursorcolor:"#7ddbff"
-    });
+    // $("html").niceScroll()
+    // $("body").niceScroll({
+    //     cursorcolor:"#7ddbff"
+    
     // Loading Website
     $(window).load(function(){
         
