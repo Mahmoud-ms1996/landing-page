@@ -247,7 +247,7 @@ section .logo-1{
 }
 .subsribe input[type="text"]{
     background: rgba(225, 225, 225, 0.5);
-    color:#ddd;
+    color:#d11919;
 }
 .subsribe input::placeholder{
     color:#dc3545;
@@ -703,11 +703,6 @@ textarea.form-control{
     margin-bottom: 75px;
     padding-left: 5px;
     padding-right: 5px;
-}
-.FAQ-Accordion .container{
-    /* box-shadow: 10px 10px 10px #888;
-    padding: 0px;
-    border-radius: 10px; */
 }
 .FAQ-Accordion .accordion-button{
     color: black;
